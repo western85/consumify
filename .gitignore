@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+# secret file
+
 # testing
 /coverage
 
@@ -13,7 +15,10 @@
 
 # misc
 .DS_Store
+
+# secret file
 .env
+
 .env.local
 .env.development.local
 .env.test.local
