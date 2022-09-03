@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Skip the geeky stuff below, and click the link to go directly to: [Consumify](https://consumifyjs.netlify.app/).
 
 ## Available Scripts
 
